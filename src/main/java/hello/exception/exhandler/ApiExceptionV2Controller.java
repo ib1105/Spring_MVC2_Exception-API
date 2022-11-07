@@ -1,4 +1,4 @@
-package hello.exception.api.exhandler;
+package hello.exception.exhandler;
 import hello.exception.exception.UserException;
 import hello.exception.exhandler.ErrorResult;
 import lombok.AllArgsConstructor;
